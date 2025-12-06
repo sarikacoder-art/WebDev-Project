@@ -50,7 +50,7 @@ localStorage API – Persistent storage
 
 Download or clone the project:
 
-git clone  https://sarikacoder-art.github.io/WebDev-Project
+git clone  https://github.com/sarikacoder-art/WebDev-Project
 
 
 Open the folder.
