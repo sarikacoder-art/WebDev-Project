@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart To-Do App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <button id="themeToggle" class="theme-btn">🌙</button>
+   <div class="app">
+      
+  <h2> Smart To-Do</h2>
+
+  <div class="stats">
+    <span>Total: <b id="total">0</b></span>
+    <span>Done: <b id="done">0</b></span>
+  </div>
+
+  <div class="input-box">
+    <input id="taskInput" placeholder="Enter a task">
+    <button onclick="addTask()">+</button>
+  </div>
+
+  <div class="filters">
+    <button onclick="setFilter('all')">All</button>
+    <button onclick="setFilter('active')">Active</button>
+    <button onclick="setFilter('done')">Done</button>
+  </div>
+
+  <ul id="taskList"></ul>
+
+  <button class="clear" onclick="clearCompleted()">Clear Done</button>
+</div>
+
+</body>
+<script src="script.js"></script>
+</html>
