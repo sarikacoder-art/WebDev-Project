@@ -9,22 +9,8 @@ It includes sound feedback, dark mode, filters, live stats, and local storage sa
 
 👉 Live Preview: (Add your GitHub Pages link here once uploaded)
 
-https://your-username.github.io/smart-todo-app/
+https://github.com/sarikacoder-art/WebDev-Project
 
-📸 Screenshots
-
-Add these once you upload screenshots to your repo:
-
-/screenshots/light-mode.png
-/screenshots/dark-mode.png
-/screenshots/task-completed.png
-
-
-Then use this format:
-
-![Light Mode](screenshots/light-mode.png)
-![Dark Mode](screenshots/dark-mode.png)
-![Completed Task](screenshots/task-completed.png)
 
 🚀 Features
 
