@@ -44,13 +44,13 @@ localStorage API – Persistent storage
  ┣ 📄 index.html
  ┣ 📄 style.css
  ┣ 📄 script.js
- ┗ 📁 screenshots
+ 
 
 ⚙️ Installation & Setup
 
 Download or clone the project:
 
-git clone https://github.com/your-username/smart-todo-app.git
+git clone  https://sarikacoder-art.github.io/WebDev-Project
 
 
 Open the folder.
