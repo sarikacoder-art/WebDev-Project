@@ -9,7 +9,7 @@ It includes sound feedback, dark mode, filters, live stats, and local storage sa
 
 👉 Live Preview: (Add your GitHub Pages link here once uploaded)
 
-https://github.com/sarikacoder-art/WebDev-Project
+https://sarikacoder-art.github.io/WebDev-Project/
 
 
 🚀 Features
